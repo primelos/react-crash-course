@@ -1,0 +1,30 @@
+[
+    {
+        "name": "Nylon Braided Lightning to USB Cable",
+        "price": 21.99,
+        "sizes": [
+           {
+                "name": "1 pack",
+                "price": 1
+            },
+            {
+                "name": "2 pack",
+                "price": 2
+            }
+        ],
+        "styles": [
+            {
+                 "name": "1 foot",
+                 "price": 5.50
+             },
+             {
+                 "name": "3 foot",
+                 "price": 8.00
+             }
+         ],
+         "colors": [
+             {"name": "grey", "image": "https://images-na.ssl-images-amazon.com/images/I/61s8wk6X0mL._AC_SX679_.jpg"},
+             {"name": "red", "image": "https://images-na.ssl-images-amazon.com/images/I/61Lu6PXkoLL._AC_SX679_.jpg"}
+         ]
+    }
+]
